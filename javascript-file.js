@@ -1,4 +1,4 @@
 var img = document.createElement("img");
-img.src = "Bank Account Management Dashboard - Content Verification -- should display container title as (Manage Bank Accounts for ACH Payments) (failed).png";
+img.src = "image[1].png";
 var src = document.getElementById("header");
 src.appendChild(img);
