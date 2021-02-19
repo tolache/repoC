@@ -1,4 +1,4 @@
 @echo on 
 echo hi
 echo hiho
-exit 0
+exit 1
